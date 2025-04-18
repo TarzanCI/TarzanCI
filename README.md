@@ -33,6 +33,10 @@ Tools: Git, Docker, Firebase, Figma
 
 ---
 
-### 🔥 Phrase de fin stylée :
+### 📊 GitHub Stats
 
-"Code like a beast, swing through bugs like vines. 🐗🌴"
+![TarzanCI's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarzanCI&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarzanCI&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarzanCI&theme=tokyonight)
