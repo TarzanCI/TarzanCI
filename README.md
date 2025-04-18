@@ -1,16 +1,38 @@
-## Hi there 👋
+# Tarzan 🐒💻
 
-<!--
-**TarzanCI/TarzanCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Full-Stack Developer | Web • iOS • Android • Software
 
-Here are some ideas to get you started:
+Bienvenue sur ma jungle numérique 🌿
+Moi c’est **Tarzan**, développeur passionné, créatif et toujours prêt à sauter de branche en branche entre les technos !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mes domaines de compétences
+
+- 🌐 Web Development (Frontend + Backend)
+- 📱 Mobile: iOS / Android (native & cross-platform)
+- 🛠️ Software Engineering
+- ☁️ Cloud & DevOps
+- 🎨 UI/UX design (parce que le style, c’est important)
+
+---
+
+### 🧰 Technologies
+
+Languages: JavaScript, Swift, Kotlin, Dart, Python, PHP
+Frameworks: React, Next.js, Flutter, Laravel, Node.js
+Tools: Git, Docker, Firebase, Figma
+
+---
+
+### 🌍 Let’s connect
+
+📫 Me contacter ici : nader@sedw.ci
+🐙 Mon GitHub : https://github.com/TarzanCI
+📷 Insta dev : https://instagram.com/skeiki.nader
+
+---
+
+### 🔥 Phrase de fin stylée :
+
+"Code like a beast, swing through bugs like vines. 🐗🌴"
